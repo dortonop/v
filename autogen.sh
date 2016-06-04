@@ -1,4 +1,5 @@
 #!/bin/sh
+# test travis 
 set -e
 srcdir="$(dirname $0)"
 cd "$srcdir"
